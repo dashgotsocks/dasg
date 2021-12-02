@@ -111,3 +111,12 @@ button:hover{
     font-family: sans-serif;
 }
 
+.button-discord{
+    width: 100%;
+    position: absolute;
+    top: 70%;
+    transform: translateY(-50%);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    
+}
